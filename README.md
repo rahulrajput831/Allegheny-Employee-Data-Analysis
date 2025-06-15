@@ -1,4 +1,4 @@
-# Allegheny-Employee-Data-Analysis
+# ALLEGHENY-EMPLOYEE-DATA-ANALYSIS
 # Allegheny County Employee Salaries 2022 - Data Analysis  
 **Project Report for INT217 - Introduction to Data Management**  
 Lovely Professional University  
